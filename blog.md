@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+author: DucAnh
 ---
 
 <h1><b>ReactJS Có Gì Lợi Hại Mà Lazada, Tiki, Shopee, Sendo Và Các Trang Thương Mại Điện Tử Lớn Khác Đều Đang Sử Dụng?</b></h1>
